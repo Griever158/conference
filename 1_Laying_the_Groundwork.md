@@ -16,28 +16,28 @@ A typical [organising committee](organising_committee.md) will include an overal
 Supporting the overall lead, various specialised roles are necessary to manage distinct areas of conference planning. These often include ([1](works_cited.md)):
 
 - **[Logistics Lead](logistics_lead):** Manages venue arrangements, catering, transportation, and accommodation for speakers and VIPs.    
-- **[Speaker and Panel Management Lead (Program Lead)](speaker_panel_management_lead.md):** Oversees the academic program, coordinates invited speakers, and manages session scheduling.    
-- **[Sponsorship and Partnerships Lead](sponsorships_partnerships_lead.md):** Focuses on securing financial and in-kind support for the event and managing relationships with sponsors.    
-- **[IT Services / Technical Manager](it_services_manager.md):** Handles all audiovisual (AV) requirements, IT infrastructure, and, if applicable, virtual or hybrid conference platforms.    
-- **Marketing and Social Media Lead:** Responsible for promoting the conference, managing communication channels, and creating marketing materials.    
-- **Finance Lead / Financial Manager:** Manages the conference budget, tracks income and expenditure, processes payments, and ensures financial viability.    
-- **Abstract Review Coordination Lead:** For larger conferences, this role manages the submission and peer-review process.    
-- **Hybrid Session Facilitation Lead:** If the conference includes hybrid elements, this role ensures smooth integration of in-person and virtual components.    
+- **[Speaker and Panel Management Lead (Program Lead)](program_lead.md):** Oversees the academic program, coordinates invited speakers, and manages session scheduling.    
+- **[Sponsorship and Partnerships Lead](sponsorship_lead.md):** Focuses on securing financial and in-kind support for the event and managing relationships with sponsors.    
+- **[IT Services / Technical Manager](it_lead.md):** Handles all audiovisual (AV) requirements, IT infrastructure, and, if applicable, virtual or hybrid conference platforms.    
+- **[Marketing and Social Media Lead](marketing_lead.md):** Responsible for promoting the conference, managing communication channels, and creating marketing materials.    
+- **[Finance Lead / Financial Manager](finance_lead.md):** Manages the conference budget, tracks income and expenditure, processes payments, and ensures financial viability.    
+- **[Abstract Review Coordination Lead](abstract_review_lead.md):** For larger conferences, this role manages the submission and peer-review process.    
+- **[Hybrid Session Facilitation Lead](hybrid_facilities_lead.md):** If the conference includes hybrid elements, this role ensures smooth integration of in-person and virtual components.    
 
 The following table outlines core roles and their typical responsibilities:
 
 **Table 1: Core Roles and Responsibilities in an Organising Committee**
 
-| Role Title            | Key Responsibilities                                                                                       | Ideal Skills/Experience                                                     |
-| --------------------- | ---------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
-| Conference Chair      | Overall project oversight, team leadership, final decision-making, external representation.                | Strong leadership, communication, organisational skills, academic standing. |
-| Logistics Lead        | Venue selection & management, catering, accommodation, transportation, on-site signage.                    | Event planning, negotiation, attention to detail.                           |
-| Program Lead          | Developing academic program, managing call for papers & peer review, speaker liaison, session scheduling.  | Academic expertise in the field, organisational skills.                     |
-| Finance Lead          | Budget creation & management, financial tracking, payment processing, sponsorship invoicing.               | Financial acumen, budgeting software proficiency.                           |
-| Marketing Lead        | Developing & executing marketing plan, website management, social media, email campaigns, PR.              | Marketing strategy, digital marketing, communication skills.                |
-| Sponsorship Lead      | Identifying & securing sponsors, developing sponsorship packages, managing sponsor relations.              | Sales, negotiation, relationship building.                                  |
-| IT/Technical Lead     | AV equipment, virtual platform management (if hybrid/virtual), technical support for speakers & attendees. | Technical expertise, problem-solving, AV systems.                           |
-| Volunteer Coordinator | Recruiting, training, and managing volunteers for on-site tasks.                                           | People management, organisational skills.                                   |
+| Role Title                                        | Key Responsibilities                                                                                       | Ideal Skills/Experience                                                     |
+| ------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
+| [Conference Chair](conference_chair.md)           | Overall project oversight, team leadership, final decision-making, external representation.                | Strong leadership, communication, organisational skills, academic standing. |
+| [Logistics Lead](logistics_lead.md)               | Venue selection & management, catering, accommodation, transportation, on-site signage.                    | Event planning, negotiation, attention to detail.                           |
+| [Program Lead](program_lead.md)                   | Developing academic program, managing call for papers & peer review, speaker liaison, session scheduling.  | Academic expertise in the field, organisational skills.                     |
+| [Finance Lead](finance_lead.md)                   | Budget creation & management, financial tracking, payment processing, sponsorship invoicing.               | Financial acumen, budgeting software proficiency.                           |
+| [Marketing Lead](marketing_lead.md)               | Developing & executing marketing plan, website management, social media, email campaigns, PR.              | Marketing strategy, digital marketing, communication skills.                |
+| [Sponsorship Lead](sponsorship_lead.md)           | Identifying & securing sponsors, developing sponsorship packages, managing sponsor relations.              | Sales, negotiation, relationship building.                                  |
+| [IT/Technical Lead](it_lead.md)                   | AV equipment, virtual platform management (if hybrid/virtual), technical support for speakers & attendees. | Technical expertise, problem-solving, AV systems.                           |
+| [Volunteer Coordinator](volunteer_coordinator.md) | Recruiting, training, and managing volunteers for on-site tasks.                                           | People management, organisational skills.                                   |
 
 While specialised roles promote efficiency, they can inadvertently foster a "silo mentality," where individual teams focus narrowly on their tasks without a comprehensive view of the conference's interconnected elements. The Event Coordinator or Conference Chair plays a pivotal role not merely as an overseer but as a crucial integrator. Conferences involve numerous interdependent components; for example, budgetary decisions directly impact venue choices, and speaker availability influences the program schedule. If the finance team makes budget adjustments without consulting the program team, it might become unfeasible to secure a desired keynote speaker. Similarly, if the marketing team promotes features before they are logistically confirmed, it can create unmet expectations. The overall lead must therefore facilitate continuous communication across all teams, ensuring that decisions are made holistically, considering all cross-departmental impacts. This individual acts as the central hub, ensuring, for instance, that the marketing and logistics coordinators are consistently aligned ([2](works_cited.md)). The collaborative functioning of the committee, orchestrated by a strong and integrative leader, is often more critical to the conference's success than the isolated brilliance within each specialised area. For larger conferences or when internal capacity is limited, engaging a Professional Conference Organiser (PCO) to manage on-site logistics can be a valuable consideration ([1, 6](works_cited.md)).
 ## **Establishing a Comprehensive Planning Timeline (9–18 Months)**

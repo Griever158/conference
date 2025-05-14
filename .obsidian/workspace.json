@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "1_Laying_the_Groundwork.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of 1_Laying_the_Groundwork"
             }
           },
           {
@@ -163,10 +163,26 @@
           }
         ],
         "currentTab": 4
+      },
+      {
+        "id": "43e3db1130a02fa8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "25eae22969c54b1b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 601.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,14 +197,21 @@
   },
   "active": "1be48f9a2caec42a",
   "lastOpenFiles": [
-    "personell/organising_committee.md",
+    "volunteer_coordinator.md",
     "1_Laying_the_Groundwork.md",
+    "program_lead.md",
+    "conference_chair.md",
+    "logistics_lead.md",
+    "hybrid_facilities_lead.md",
+    "abstract_review_lead.md",
+    "finance_lead.md",
+    "marketing_lead.md",
+    "organising_committee.md",
     "attendees.md",
     "personell",
-    "it_services_manager.md",
-    "sponsorships_partnerships_lead.md",
+    "it_lead.md",
+    "sponsorship_lead.md",
     "speaker_panel_management_lead.md",
-    "logistics_lead.md",
     "README.md",
     "speakers.md",
     "conference_theme.md",

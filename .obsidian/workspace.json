@@ -13,28 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test folder/Tester.md",
+                "file": "1 - Laying the Groundwork Vision, Team, and Timeline.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tester"
-            }
-          }
-        ]
-      },
-      {
-        "id": "bcbd4cb91295cee0",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0f9279cf57b6a99e",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "1 - Laying the Groundwork Vision, Team, and Timeline"
             }
           }
         ]
@@ -195,11 +179,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9a805d414cf5e9b2",
+  "active": "1be48f9a2caec42a",
   "lastOpenFiles": [
-    "Test folder",
-    "Welcome.md",
+    "Works Cited.md",
+    "1 - Laying the Groundwork Vision, Team, and Timeline.md",
+    "README.md",
     "Test folder/Tester.md",
+    "Test folder",
     "conference"
   ]
 }

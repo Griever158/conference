@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Laying the Groundwork Vision, Team, and Timeline.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1 - Laying the Groundwork Vision, Team, and Timeline"
+              "title": "README"
             }
           }
         ]
@@ -181,9 +181,9 @@
   },
   "active": "1be48f9a2caec42a",
   "lastOpenFiles": [
-    "Works Cited.md",
     "1 - Laying the Groundwork Vision, Team, and Timeline.md",
     "README.md",
+    "Works Cited.md",
     "Test folder/Tester.md",
     "Test folder",
     "conference"

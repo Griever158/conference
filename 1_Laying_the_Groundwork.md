@@ -44,12 +44,12 @@ While specialised roles promote efficiency, they can inadvertently foster a "sil
 
 The planning horizon for an academic conference typically ranges from 9 to 18 months, with a longer lead time generally being advantageous ([1](works_cited.md)). Once the theme is confirmed and the organising committee is in place, a detailed planning schedule with key milestones must be developed ([1](works_cited.md)). Key milestones typically include:
 
-- **18–12 Months Out:** Initial planning (defining goals, objectives, preliminary program ideas, initial budget framework) ([7](works_cited.md)). Form core organising committee.    
-- **12–9 Months Out:** Finalise theme and scope. Identify potential keynote speakers and initiate contact. Select and book the venue ([7](works_cited.md)). Develop detailed budget. Launch conference website.    
-- **9–6 Months Out:** Launch the call for papers/abstracts. Develop sponsorship packages and begin outreach.    
-- **6–4 Months Out:** Abstract submission deadline. Commence peer review process. Open early-bird registration.    
-- **4–2 Months Out:** Finalise academic program and speaker confirmations. Close peer review. Send acceptance/rejection notifications. Arrange catering and essential support services (AV, security) ([7](works_cited.md)).    
-- **2–1 Month Out:** Regular registration deadline. Finalise catering numbers and dietary requirements. Finalise meeting room layouts, AV needs, and any ADA accommodations ([7](works_cited.md)). Prepare printed materials (program, badges). Recruit and train volunteers.    
+- **18–12 Months Out:** Initial planning ([defining goals, objectives](aims.md), [preliminary program ideas](program.md), initial [budget framework](budget.md)) ([7](works_cited.md)). Form core organising committee.    
+- **12–9 Months Out:** Finalise theme and scope. Identify potential keynote speakers and initiate contact. Select and book the [venue](venue.md) ([7](works_cited.md)). Develop detailed budget. Launch [conference website](website.md).    
+- **9–6 Months Out:** Launch the [call for papers/abstracts](call_for_papers.md). Develop [sponsorship packages](sponsors.md) and begin outreach.    
+- **6–4 Months Out:** Abstract submission deadline. Commence [peer review process](peer_review.md). Open [early-bird registration](early_registration.md).    
+- **4–2 Months Out:** Finalise [academic program](program.md) and speaker confirmations. Close peer review. Send [acceptance/rejection notifications](acceptance_notification.md). Arrange [catering](catering.md) and [essential support services](essential_support_services.md) (AV, security) ([7](works_cited.md)).    
+- **2–1 Month Out:** Regular registration deadline. Finalise catering numbers and dietary requirements. Finalise meeting room layouts, AV needs, and any ADA accommodations ([7](works_cited.md)). Prepare [printed materials](printed_materials.md) (program, badges). Recruit and train [volunteers](volunteers.md).    
 - **2 Weeks Out:** Provide final conference timeline and on-site contact information to venue/university services ([7](works_cited.md)). Ensure any special liability insurance is in place ([7](works_cited.md)).    
 - **Conference Week:** On-site setup, volunteer briefings, execution of the conference.    
 

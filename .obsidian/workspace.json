@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_Laying_the_Groundwork.md",
+                "file": "2_Financial_Strategy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1_Laying_the_Groundwork"
+              "title": "2_Financial_Strategy"
             }
           }
         ]
@@ -142,13 +142,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1_Laying_the_Groundwork.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1_Laying_the_Groundwork"
+              "title": "Outline"
             }
           },
           {
@@ -195,35 +194,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1be48f9a2caec42a",
+  "active": "25eae22969c54b1b",
   "lastOpenFiles": [
-    "volunteers.md",
+    "2_Financial_Strategy.md",
+    "grants.md",
+    "exhibitors.md",
+    "registration_fees.md",
+    "other_costs.md",
+    "vendors.md",
+    "equipment.md",
+    "av_equipment.md",
+    "merchandise.md",
+    "technology.md",
+    "staffing.md",
     "1_Laying_the_Groundwork.md",
+    "works_cited.md",
+    "sponsors.md",
+    "call_for_papers.md",
+    "early_registration.md",
+    "README.md",
+    "marketing.md",
+    "peer_review.md",
+    "volunteers.md",
     "printed_materials.md",
     "essential_support_services.md",
     "catering.md",
     "acceptance_notification.md",
     "website.md",
     "venue.md",
-    "budget.md",
-    "program.md",
-    "volunteer_coordinator.md",
-    "program_lead.md",
-    "conference_chair.md",
-    "logistics_lead.md",
-    "hybrid_facilities_lead.md",
-    "abstract_review_lead.md",
-    "finance_lead.md",
-    "marketing_lead.md",
-    "organising_committee.md",
-    "attendees.md",
     "personell",
-    "it_lead.md",
-    "sponsorship_lead.md",
-    "speaker_panel_management_lead.md",
-    "README.md",
-    "speakers.md",
-    "conference_theme.md",
     "Test folder",
     "conference"
   ]

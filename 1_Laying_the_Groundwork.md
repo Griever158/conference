@@ -33,6 +33,7 @@ The following table outlines core roles and their typical responsibilities:
 | Sponsorship Lead      | Identifying & securing sponsors, developing sponsorship packages, managing sponsor relations.              | Sales, negotiation, relationship building.                                  |
 | IT/Technical Lead     | AV equipment, virtual platform management (if hybrid/virtual), technical support for speakers & attendees. | Technical expertise, problem-solving, AV systems.                           |
 | Volunteer Coordinator | Recruiting, training, and managing volunteers for on-site tasks.                                           | People management, organisational skills.                                   |
+
 While specialised roles promote efficiency, they can inadvertently foster a "silo mentality," where individual teams focus narrowly on their tasks without a comprehensive view of the conference's interconnected elements. The Event Coordinator or Conference Chair plays a pivotal role not merely as an overseer but as a crucial integrator. Conferences involve numerous interdependent components; for example, budgetary decisions directly impact venue choices, and speaker availability influences the program schedule. If the finance team makes budget adjustments without consulting the program team, it might become unfeasible to secure a desired keynote speaker. Similarly, if the marketing team promotes features before they are logistically confirmed, it can create unmet expectations. The overall lead must therefore facilitate continuous communication across all teams, ensuring that decisions are made holistically, considering all cross-departmental impacts. This individual acts as the central hub, ensuring, for instance, that the marketing and logistics coordinators are consistently aligned.[2] The collaborative functioning of the committee, orchestrated by a strong and integrative leader, is often more critical to the conference's success than the isolated brilliance within each specialised area. For larger conferences or when internal capacity is limited, engaging a Professional Conference Organiser (PCO) to manage on-site logistics can be a valuable consideration.[1, 6]
 ## **Establishing a Comprehensive Planning Timeline (9–18 Months)**
 
@@ -51,20 +52,20 @@ Each stage of this timeline must be realistic, incorporating buffers for unexpec
 
 Table 2: Sample Academic Conference Planning Timeline with Key Milestones (12-18 Month Model)
 
-|   |   |   |
-|---|---|---|
-|Time Before Conference|Key Tasks/Milestones|Responsible Party/Team (Example)|
-|18–15 Months|Define conference purpose, theme, objectives. Form core organising committee. Preliminary budget. Identify potential dates & venues.|Conference Chair, Core Committee|
-|14–12 Months|Secure venue. Confirm conference dates. Finalise budget framework. Develop marketing & sponsorship strategy. Launch basic website. Initial contact with potential keynote speakers.|Logistics Lead, Finance Lead, Marketing Lead|
-|11–9 Months|Issue Call for Papers/Abstracts. Develop detailed program structure. Open sponsorship opportunities.|Program Lead, Marketing Lead, Sponsorship Lead|
-|8–6 Months|Abstract submission deadline. Begin peer review process. Open early-bird registration. Confirm keynote speakers.|Program Lead, Finance Lead|
-|5–4 Months|Peer review deadline. Send acceptance/rejection notices. Finalise session speakers. Develop draft program schedule.|Program Lead|
-|3 Months|Early bird registration closes. Regular registration continues. Finalise catering & AV requirements. Recruit volunteers. Prepare preliminary program booklet.|Finance Lead, Logistics Lead, Volunteer Coordinator|
-|2 Months|Speaker registration deadline. Finalise program schedule & abstracts. Order printed materials (badges, signage).|Program Lead, Marketing Lead|
-|1 Month|Final registration deadline (or on-site option). Confirm final attendee numbers with caterers. Final volunteer training. Prepare attendee packets. Finalise setup plans.|Finance Lead, Logistics Lead, Volunteer Coordinator|
-|2 Weeks|Send final instructions to attendees & speakers. Confirm all vendor arrangements. Prepare on-site registration materials.|Marketing Lead, Logistics Lead|
-|Conference Week|On-site setup, team briefings, execute conference, manage on-site issues, post-event survey preparation.|All Committee Members|
-|Post-Conference|Send thank-yous. Process reimbursements. Finalise financials. Analyse feedback. Publish proceedings. Debrief meeting.|Finance Lead, Program Lead, Chair|
+|                        |                                                                                                                                                                                     |                                                     |
+| ---------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- |
+| Time Before Conference | Key Tasks/Milestones                                                                                                                                                                | Responsible Party/Team (Example)                    |
+| 18–15 Months           | Define conference purpose, theme, objectives. Form core organising committee. Preliminary budget. Identify potential dates & venues.                                                | Conference Chair, Core Committee                    |
+| 14–12 Months           | Secure venue. Confirm conference dates. Finalise budget framework. Develop marketing & sponsorship strategy. Launch basic website. Initial contact with potential keynote speakers. | Logistics Lead, Finance Lead, Marketing Lead        |
+| 11–9 Months            | Issue Call for Papers/Abstracts. Develop detailed program structure. Open sponsorship opportunities.                                                                                | Program Lead, Marketing Lead, Sponsorship Lead      |
+| 8–6 Months             | Abstract submission deadline. Begin peer review process. Open early-bird registration. Confirm keynote speakers.                                                                    | Program Lead, Finance Lead                          |
+| 5–4 Months             | Peer review deadline. Send acceptance/rejection notices. Finalise session speakers. Develop draft program schedule.                                                                 | Program Lead                                        |
+| 3 Months               | Early bird registration closes. Regular registration continues. Finalise catering & AV requirements. Recruit volunteers. Prepare preliminary program booklet.                       | Finance Lead, Logistics Lead, Volunteer Coordinator |
+| 2 Months               | Speaker registration deadline. Finalise program schedule & abstracts. Order printed materials (badges, signage).                                                                    | Program Lead, Marketing Lead                        |
+| 1 Month                | Final registration deadline (or on-site option). Confirm final attendee numbers with caterers. Final volunteer training. Prepare attendee packets. Finalise setup plans.            | Finance Lead, Logistics Lead, Volunteer Coordinator |
+| 2 Weeks                | Send final instructions to attendees & speakers. Confirm all vendor arrangements. Prepare on-site registration materials.                                                           | Marketing Lead, Logistics Lead                      |
+| Conference Week        | On-site setup, team briefings, execute conference, manage on-site issues, post-event survey preparation.                                                                            | All Committee Members                               |
+| Post-Conference        | Send thank-yous. Process reimbursements. Finalise financials. Analyse feedback. Publish proceedings. Debrief meeting.                                                               | Finance Lead, Program Lead, Chair                   |
 
   
 
